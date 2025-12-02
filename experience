@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experience | Frank Basa</title>
+    <style>
+        body { font-family: Arial; background: #f9f9f9; }
+        nav { background: #003366; padding: 12px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-size: 1.1em; }
+        section { max-width: 900px; margin: auto; padding: 20px; }
+        h1 { color: #003366; }
+        h2 { color: #00264d; }
+    </style>
+</head>
+
+<body>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="experience.html">Experience</a>
+    <a href="skills.html">Skills</a>
+    <a href="projects.html">Projects</a>
+    <a href="resume.html">Resume</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <h1>Experience</h1>
+
+    <h2>University of California, Office of the President</h2>
+    <p>Business Services Manager / IT Project Lead</p>
+    <ul>
+        <li>Led major IT and business process initiatives across UC system.</li>
+        <li>Managed technical teams, vendors, and senior stakeholders.</li>
+        <li>Delivered modernization, compliance, and service improvement programs.</li>
+    </ul>
+
+    <h2>University of San Francisco</h2>
+    <p>IT Project Manager</p>
+    <ul>
+        <li>Data migration project leadership.</li>
+        <li>Cross-functional technical coordination.</li>
+    </ul>
+</section>
+</body>
+</html>
